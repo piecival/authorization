@@ -1,0 +1,2 @@
+# authorization
+zuul, eureka, authorization
